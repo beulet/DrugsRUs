@@ -1,0 +1,7 @@
+sarah 1 1
+jason 4 5
+nila 3 2 
+jonas 5 6
+judy 8 15
+denny 9 14
+lis 2 2
